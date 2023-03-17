@@ -1,0 +1,23 @@
+TankGame-react-ethereum
+TankGame-react-ethereum is a decentralized game built using React and Ethereum blockchain technologies. It allows players to compete with each other in tank battles where they can earn cryptocurrency rewards for their victories.
+
+Features:
+Players can create an account and connect their Ethereum wallet
+They can fund their account with Ether to purchase tanks and ammunition
+Battles take place on a virtual battlefield where players can move and shoot at each other
+Players earn cryptocurrency rewards for winning battles which are automatically credited to their Ethereum wallet
+Multiple tanks and items to purchase with different abilities and costs
+Real-time leaderboards displaying the top players in the game
+Technologies Used:
+Solidity (Ethereum Smart Contract language)
+Truffle (development framework for Ethereum)
+React.js (JavaScript library for building user interfaces)
+Web3.js (library for interacting with Ethereum)
+IPFS (InterPlanetary File System, for storing assets)
+HTML/CSS
+Installation Instructions:
+Clone the repository: git clone https://github.com/username/TankGame-react-ethereum.git
+Navigate into the project directory: cd TankGame-react-ethereum
+Install dependencies: npm install
+Start the local development server: npm start
+Note: You will need to have MetaMask installed on your browser and connected to the Rinkeby Test Network in order to play the game.
